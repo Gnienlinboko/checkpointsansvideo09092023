@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(43, 192, 226);
+    margin: 200px;
+    -moz-context-properties: 500px;
+}
+button {
+    color: rgba(24, 4, 4, 0.499);
+}
+span {
+    text-decoration:red;
+}
+th {
+    color: red;text-align: center;
+}
+video {
+    padding-right: 100px;
+    padding-top: 10px;
+
+}
